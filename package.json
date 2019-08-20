@@ -1,19 +1,16 @@
 {
-    "name": "eslint-config-pz",
-    "description": "ESLint shareable config for pzmosquito",
-    "author": "pzmosquito",
-    "version": "0.1.1",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pzmosquito/eslint-config-pz"
-    },
-    "homepage": "https://github.com/pzmosquito/eslint-config-pz#readme",
-    "main": "index.js",
-    "peerDependencies": {
-        "eslint": "^6.0.0"
-    },
-    "dependencies": {
-      "eslint-config-airbnb": "^17.0.0"
-    }
+  "name": "eslint-config-pz",
+  "description": "ESLint shareable config for pzmosquito",
+  "author": "pzmosquito",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pzmosquito/eslint-config-pz"
+  },
+  "homepage": "https://github.com/pzmosquito/eslint-config-pz#readme",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.0"
   }
+}
