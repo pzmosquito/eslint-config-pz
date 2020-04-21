@@ -21,11 +21,8 @@ module.exports = {
         // four space indent
         "react/jsx-indent": ["error", 4],
         "react/jsx-indent-props": ["error", 4],
+        
         // this rules isn't really making sense when using mobx @observable class properties.
         "react/sort-comp": ["off"],
-
-        // This rule was deprecated in v6.1.0. It will no longer be maintained
-        "jsx-a11y/label-has-for": ["off"],
-
     }
 };
