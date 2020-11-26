@@ -24,5 +24,8 @@ module.exports = {
         
         // this rules isn't really making sense when using mobx @observable class properties.
         "react/sort-comp": ["off"],
+
+        // too restrictive
+        "class-methods-use-this": ["off"],
     }
 };
